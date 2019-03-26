@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# IDEA files
+*.md
+*.iml
+
+#ignore maven files
+mvnw
+mvnw.cmd
+
+
+# Ignore folder
+target/
+.idea/
+.mvn/
